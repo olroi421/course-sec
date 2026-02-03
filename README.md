@@ -6,9 +6,7 @@
 | Тема лекції | Кількість годин |
 |------|------|
 | [Лекція 01 Основи бізнес-процесів](lectures/lec-01.md) | 2 |
-| [Лекція 02: Алгоритми ранжування та SERP features](lectures/lec-02.md) | 2 |
-| [Лекція 03: HTML-структура та on-page елементи](lectures/lec-03.md) | 2 |
-| [Лекція 04: Schema.org та structured data](lectures/lec-04.md) | 2 |
+| [Лекція 02 Нотація BPMN 2.0](lectures/lec-02.md) | 2 |
 
 ---
 
